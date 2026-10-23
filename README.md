@@ -6,7 +6,16 @@
 **Módulo:** Módulo 02 - Do Embedding ao RAGAS  
 
 ---
+##  Integrantes do Grupo
 
+| Nome Completo | RM |
+| :--- | :--- |
+| Aline Medri Marcolino | RM 569349 |
+| Luis Fernando de Azevedo | RM 574167 |
+| Gabriel dos Santos Siqueira | RM 572200 |
+| Eduardo Novaki Santos Coelho | RM 572649 |
+| Pedro Arthur Campos Reis | RM 569913 |
+---
 
 ##  Visão Geral do Projeto
 

@@ -119,3 +119,11 @@ A partir desse momento, a função `buscar()` e a interface do Gradio passarão 
 4. Clique em **Runtime > Run All** (ou `Ctrl + F9`).
 5. Execute a última célula para gerar o link público da interface **Gradio**.
 No README
+
+## Rodar 
+**instar a biblioteca **
+python -m pip install -r requirements.txt
+**Projeto já tem um pipeline para carregar PDFs e criar o ChromaDB:**
+python 2_pipeline.py
+**Iniciar o chatbot**
+python -m app.main

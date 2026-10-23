@@ -26,25 +26,38 @@ O pipeline recupera trechos de documentos técnicos oficiais para fundamentar as
 O sistema foi submetido a uma **análise comparativa quantitativa via RAGAS**, testando duas estratégias de divisão de texto (*chunking*) para determinar a configuração com maior índice de *faithfulness* (fidelidade).
 
 ---
-
-##  Base de Conhecimento Reais (GoodWe)
+## Base de Conhecimento Reais (GoodWe)
 O projeto utiliza 5 documentos oficiais e regulatórios reais do domínio de sistemas fotovoltaicos, carregadores de veículos elétricos e normas técnicas de energia:
-GW_Compatibility-list-of-GoodWe-EV-Charger.pdf
-Descrição: Lista oficial de compatibilidade entre os carregadores para veículos elétricos (EV) e os inversores da GoodWe.
-Fonte: Documentação Oficial GoodWe
-GW_HCA-G2_Datasheet-PT.pdf
-Descrição: Especificações técnicas resumidas (datasheet) da linha de carregadores veiculares HCA-G2 em Português.
-Fonte: Datasheet Oficial GoodWe
-GW_HCA-G2_User-Manual-PT.pdf
-Descrição: Manual completo de instalação, operação e segurança para os utilizadores dos carregadores HCA-G2.
-Fonte: Manuais GoodWe PT
-GW_SEMS-PLUS_User-Manual-EN.pdf
-Descrição: Manual técnico de configuração e monitoramento inteligente de energia através da plataforma SEMS Plus.
-Fonte: Portal SEMS GoodWe
-NDU 042 - Fornecimento de energia para es...pdf
-Descrição: Norma técnica regulatória aplicada ao fornecimento de energia elétrica e requisitos para conexão de sistemas de geração.
-Fonte: Normas Técnicas de Concessionária / Regulamentação Setorial
 
+**GW_Compatibility-list-of-GoodWe-EV-Charger.pdf**
+
+Descrição: Lista oficial de compatibilidade entre os carregadores para veículos elétricos (EV) e os inversores da GoodWe.
+
+Fonte: Documentação Oficial GoodWe.
+
+**GW_HCA-G2_Datasheet-PT.pdf**
+
+Descrição: Especificações técnicas resumidas (datasheet) da linha de carregadores veiculares HCA-G2 em Português.
+
+Fonte: Datasheet Oficial GoodWe.
+
+**GW_HCA-G2_User-Manual-PT.pdf**
+
+Descrição: Manual completo de instalação, operação e segurança para os utilizadores dos carregadores HCA-G2.
+
+Fonte: Manuais GoodWe PT.
+
+**GW_SEMS-PLUS_User-Manual-EN.pdf**
+
+Descrição: Manual técnico de configuração e monitoramento inteligente de energia através da plataforma SEMS Plus.
+
+Fonte:Portal SEMS GoodWe.
+
+**NDU 042 - Fornecimento de energia para es...pdf**
+
+Descrição: Norma técnica regulatória aplicada ao fornecimento de energia elétrica e requisitos para conexão de sistemas de geração.
+
+Fonte: Normas Técnicas de Concessionária / Regulamentação Setorial.
 
 ---
 
